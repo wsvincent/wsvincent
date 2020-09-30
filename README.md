@@ -1,5 +1,5 @@
 # William Vincent
-Author and teacher focused on Python/Django. Django Software Foundation Board Member. Co-host of DjangoChat podcast. Founder of LearnDjango.com.
+Author and teacher focused on Python/Django. [Django Software Foundation](https://www.djangoproject.com/foundation/) Board Member. Founder of [LearnDjango](https://learndjango.com/). Co-host of [DjangoChat](https://djangochat.com/) podcast and co-write [Django News newsletter](https://django-news.com/).
 
 <hr>
 
@@ -20,4 +20,4 @@ Author and teacher focused on Python/Django. Django Software Foundation Board Me
 * [Django, Docker, and PostgreSQL Tutorial](https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial)
 * [Django Custom User Model](https://learndjango.com/tutorials/django-custom-user-model)
 * [How to Learn Django (2020)](https://learndjango.com/tutorials/how-learn-django)
-* [Django Slug Tutorial](https://learndjango.com/tutorials/django-slug-tutorial) 
+* [Django Slug Tutorial](https://learndjango.com/tutorials/django-slug-tutorial)
