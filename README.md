@@ -1,4 +1,4 @@
-👋  I'm a Django developer, author, and [Board Member of the Django Software Foundation](https://www.djangoproject.com/foundation/).
+👋  I'm a Django developer, author, and former [Board Member of the Django Software Foundation](https://www.djangoproject.com/foundation/).
 
 ## Projects
 * 🎓 [LearnDjango.com](https://learndjango.com) - Free and premium tutorials on Django
