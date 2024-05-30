@@ -15,4 +15,4 @@
 * ✨ [awesome-django](https://github.com/wsvincent/awesome-django) - Curated list of awesome things related to Django
 * 🔋 [DjangoX](https://github.com/wsvincent/djangox) - Django starter project
 * 🔧 [drfx](https://github.com/wsvincent/drfx) - Django REST Framework starter project
-* 😲 [django-microframework](https://github.com/wsvincent/django-microframework) - Djago as a Microframework
+* 😲 [django-microframework](https://github.com/wsvincent/django-microframework) - Django as a Microframework
