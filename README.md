@@ -1,7 +1,7 @@
 👋  I'm a Django developer, author, and former [Board Member of the Django Software Foundation](https://www.djangoproject.com/foundation/).
 
 ## Projects
-* 🎓 [LearnDjango.com](https://learndjango.com) - Free and premium tutorials on Django
+* 🎓 [LearnDjango.com](https://learndjango.com) - Courses and free tutorials on Django.
 * 🌐 [wsvincent.com](https://wsvincent.com) - Personal website with many tutorials on Django, Python, etc.
 * 🎧 [Django Chat podcast](https://djangochat.com) - Co-hosted with [Carlton Gibson](https://github.com/carltongibson)
 * 📬 [Django News newsletter](https://django-news.com) - A weekly dose of Django news, articles, and projects co-written with [Jeff Triplett](https://github.com/jefftriplett)
