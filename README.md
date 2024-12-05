@@ -6,13 +6,13 @@
 * 🎧 [Django Chat podcast](https://djangochat.com) - Co-hosted with [Carlton Gibson](https://github.com/carltongibson)
 * 📬 [Django News newsletter](https://django-news.com) - A weekly dose of Django news, articles, and projects co-written with [Jeff Triplett](https://github.com/jefftriplett)
 
-## Books:
-* 📚 [Django for Beginners](https://djangoforbeginners.com) - A book for developers new to Django
-* 📚 [Django for APIs](https://djangoforapis.com) - A book on using Django REST Framework to transform any Django project into a powerful API
-* 📚 [Django for Professionals](https://djangoforprofessionals.com) - A book on advanced Django tips/tricks especially around deployment
-
+## Courses:
+* 📚 [Django for Beginners]([https://djangoforbeginners.com](https://learndjango.com/courses/django-for-beginners/))
+* 📚 [Django for APIs]([https://djangoforapis.com](https://learndjango.com/courses/django-for-apis/))
+* 📚 [Django for Professionals](https://learndjango.com/courses/django-for-professionals/)
+* 
 ## Open Source Projects:
 * ✨ [awesome-django](https://github.com/wsvincent/awesome-django) - Curated list of awesome things related to Django
-* 🔋 [DjangoX](https://github.com/wsvincent/djangox) - Django starter project
+* 🔋 [Lithium](https://github.com/wsvincent/djangox) - Django starter project
 * 🔧 [drfx](https://github.com/wsvincent/drfx) - Django REST Framework starter project
 * 😲 [django-microframework](https://github.com/wsvincent/django-microframework) - Django as a Microframework
