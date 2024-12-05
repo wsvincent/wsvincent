@@ -7,10 +7,10 @@
 * 📬 [Django News newsletter](https://django-news.com) - A weekly dose of Django news, articles, and projects co-written with [Jeff Triplett](https://github.com/jefftriplett)
 
 ## Courses:
-* 📚 [Django for Beginners]([https://djangoforbeginners.com](https://learndjango.com/courses/django-for-beginners/))
-* 📚 [Django for APIs]([https://djangoforapis.com](https://learndjango.com/courses/django-for-apis/))
+* 📚 [Django for Beginners](https://learndjango.com/courses/django-for-beginners/)
+* 📚 [Django for APIs](https://learndjango.com/courses/django-for-apis/)
 * 📚 [Django for Professionals](https://learndjango.com/courses/django-for-professionals/)
-* 
+  
 ## Open Source Projects:
 * ✨ [awesome-django](https://github.com/wsvincent/awesome-django) - Curated list of awesome things related to Django
 * 🔋 [Lithium](https://github.com/wsvincent/djangox) - Django starter project
