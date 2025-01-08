@@ -1,4 +1,4 @@
-👋  I'm a Django developer, author, and former [Board Member of the Django Software Foundation](https://www.djangoproject.com/foundation/).
+👋  I'm a Developer Advocate at JetBrains and the creator of [LearnDjango.com](https://learndjango.com). Previously, I served as a [Board Member of the Django Software Foundation](https://www.djangoproject.com/foundation/).
 
 ## Projects
 * 🎓 [LearnDjango.com](https://learndjango.com) - Courses and free tutorials on Django.
