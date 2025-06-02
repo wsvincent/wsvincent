@@ -24,6 +24,7 @@ jobs:
           feed-url: https://feeds.simplecast.com/WpQaX_cs
           readme-section: chat
           max: 5
+          template: "* [{{ title }}]({{ link }}) - {{ pubDate }}"
       - uses: JasonEtco/rss-to-readme@v1
         with:
           empty-commits: false
