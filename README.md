@@ -18,12 +18,20 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 
 **📰 Recent Django News Newsletter:**
 <!--START_SECTION:news-->
-
+* [Django News - DjangoCon US Early Bird Tickets - May 30th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;287)
+* [Django News - Django Sprints on the Med? - May 23rd 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;286)
+* [Django News -  Django News is at PyCon US this weekend! - May 16th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;285)
+* [Django News - Python 3.14.0 beta is here - May 9th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;284)
+* [Django News - Template Tricks, DjangoCon Europe, and Community Wins - May 2nd 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;283)
 <!--END_SECTION:news-->
 
 **🎧 Recent Django Chat Episodes:**
 <!--START_SECTION:chat-->
-
+* [Django Chat - Django Deployments in 2025 - Eric Matthes - May 28th 2025](https://djangochat.com/episodes/django-deployments-in-2025-eric-matthes)
+* [Django Chat - Event Sourcing - Chris May - May 14th 2025](https://djangochat.com/episodes/event-sourcing-chris-may)
+* [Django Chat -  DjangoCon Europe 2025 Recap - April 30th 2025](https://djangochat.com/episodes/djangocon-europe-2025-recap)
+* [Django Chat - Coding with LLMs - Frank Wils - April 16th 2025](https://djangochat.com/episodes/coding-with-llms-frank-wiles)
+* [Django Chat - PyCon US 2025 - Elaine Wong & Jon Banafato - April 2nd 2025](https://djangochat.com/episodes/pycon-us-2025-elaine-wong-jon-banafato)
 <!--END_SECTION:chat-->
 
 
