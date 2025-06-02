@@ -3,7 +3,7 @@
 My name is Will Vincent. I'm a former [Django Board Member](https://www.djangoproject.com/foundation/) and a Developer Advocate at [JetBrains](https://www.jetbrains.com/).
 
 **👷 Current work:**
-- 🐴 LearnDjango.com](https://learndjango.com/) - website with free tutorials and premium courses on Django
+- 🐴 [LearnDjango.com](https://learndjango.com/) - website with free tutorials and premium courses on Django
 - 🎧 [Django Chat podcast](https://djangochat.com) - biweekly chats about Django
 - 📰 [Django News newsletter](https://django-news.com) - weekly updates on Django news, projects, tutorials, and more
 - 📚 [Django for Beginners/APIs/Professionals](https://learndjango.com/courses/) - available online and [in print](https://www.amazon.com/stores/William-S.-Vincent/author/B07B38Y8SG)
