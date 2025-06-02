@@ -1,11 +1,21 @@
-### Hi, I'm Will.
+### Hi 👋
 
-I'm a Developer Advocate at JetBrains working on [PyCharm](https://www.jetbrains.com/pycharm/), a Python IDE for data science and web development. 
+My name is Will Vincent. I'm a former [Django Board Member](https://www.djangoproject.com/foundation/) and a Developer Advocate at [JetBrains](https://www.jetbrains.com/).
 
-I like to code and teach, especially around web development with [Django](https://www.djangoproject.com/). Previously I was on the [Django Board](https://www.djangoproject.com/foundation/) and I've written three books on Django, available either [in print](https://www.amazon.com/stores/William-S.-Vincent/author/B07B38Y8SG) or online at [LearnDjango.com](https://learndjango.com). I also co-host the [Django Chat podcast](https://djangochat.com) and co-write the [Django News newsletter](https://django-news.com).
+**👷 Current work:**
+- 🐴 LearnDjango.com](https://learndjango.com/) - website with free tutorials and premium courses on Django
+- 🎧 [Django Chat podcast](https://djangochat.com) - biweekly chats about Django
+- 📰 [Django News newsletter](https://django-news.com) - weekly updates on Django news, projects, tutorials, and more
+- 📚 [Django for Beginners/APIs/Professionals](https://learndjango.com/courses/) - available online and [in print](https://www.amazon.com/stores/William-S.-Vincent/author/B07B38Y8SG)
 
-Most of my Django-related content is on [LearnDjango.com](https://learndjango.com) and I also write [on my personal blog](https://wsvincent.com) from time to time.
+**📜 My latest blog posts:**
+- [AI Thoughts in 2025](https://wsvincent.com/ai-thoughts-in-2025/)
+- [PyCon US 2025 Recap](https://wsvincent.com/pyconus-recap/)
+- [What's Happening in Developer Tools? (OpenAI Just Bought Windsurf for $3B)](https://wsvincent.com/whats-happening-in-developer-tools/)
+- [Vibe Recap of DjangoCon Europe 2025](https://wsvincent.com/djangocon-europe-2025-recap/)
+- [Django for Data Science @Boston Python Meetup](https://wsvincent.com/django-for-data-science-boston-python/)
 
-
-
-
+**📫 How to reach out to me:**
+- Connect on LinkedIn: [in/william-s-vincent/](https://www.linkedin.com/in/william-s-vincent/)
+- Follow on Fosstodon: [@wsvincent]([https://phpc.social/@pronskiy](https://fosstodon.org/@wsvincent))
+- Email: will at learndjango.com
