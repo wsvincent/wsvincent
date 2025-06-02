@@ -17,5 +17,6 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 
 **📫 How to reach out to me:**
 - Connect on LinkedIn: [in/william-s-vincent/](https://www.linkedin.com/in/william-s-vincent/)
-- Follow on Fosstodon: [@wsvincent]([https://phpc.social/@pronskiy](https://fosstodon.org/@wsvincent))
+- Follow on Fosstodon: [@wsvincent](https://fosstodon.org/@wsvincent))
 - Email: will at learndjango.com
+- Follow on BlueSky: [@wsvincent.bsky.social](https://bsky.app/profile/wsvincent.bsky.social)
