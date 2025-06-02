@@ -17,12 +17,18 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 - [Django for Data Science @Boston Python Meetup](https://wsvincent.com/django-for-data-science-boston-python/)
 <!--END_SECTION:blog-posts-->
 
-**Recent Django News:**
+**📰 Recent Django News Newsletter:**
 <!--START_SECTION:news-->
 
 <!--END_SECTION:news-->
 
-**GitHub Stats:**
+**🎧 Recent Django Chat Episodes:**
+<!--START_SECTION:chat-->
+
+<!--END_SECTION:chat-->
+
+
+**:octocat: GitHub Stats:**
 
 ![Will Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsvincent&show_icons=&private_count=true&theme=dracula)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefftriplett&layout=compact&theme=dracula)]()
 

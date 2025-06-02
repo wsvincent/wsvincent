@@ -21,6 +21,12 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           empty-commits: false
+          feed-url: https://feeds.simplecast.com/WpQaX_cs
+          readme-section: chat
+          max: 5
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          empty-commits: false
           feed-url: https://wsvincent.com/feed.xml
           readme-section: blog-posts
           max: 5
