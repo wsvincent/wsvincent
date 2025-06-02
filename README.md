@@ -4,9 +4,9 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 
 **📚 Books**
 
-<a href="https://learndjango.com/courses/django-for-beginners/"><img src="images/dfb50_cover.jpg" width="150" alt="Django for Beginners"/></a>
-<a href="https://learndjango.com/courses/django-for-apis/"><img src="images/dfa51_cover.jpg" width="150" alt="Django for APIs"/></a>
-<a href="https://learndjango.com/courses/django-for-professionals/"><img src="images/dfp50_cover.jpg" width="150" alt="Django for Professionals"/></a>
+<a href="https://learndjango.com/courses/django-for-beginners/"><img src="images/dfb50_cover.jpg" width="200" alt="Django for Beginners"/></a>
+<a href="https://learndjango.com/courses/django-for-apis/"><img src="images/dfa51_cover.jpg" width="200" alt="Django for APIs"/></a>
+<a href="https://learndjango.com/courses/django-for-professionals/"><img src="images/dfp50_cover.jpg" width="200" alt="Django for Professionals"/></a>
 
 **📜 My latest blog posts:**
 <!--START_SECTION:blog-posts-->

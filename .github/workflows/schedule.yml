@@ -18,14 +18,13 @@ jobs:
           empty-commits: false
           feed-url: https://django-news.com/issues.rss
           readme-section: news
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          empty-commits: false
-          feed-url: https://feeds.simplecast.com/WpQaX_cs
-          readme-section: chat
-          max: 5
+          comment_tag_name: "chat"
+          feed_list: "https://feeds.simplecast.com/WpQaX_cs"
+          max_post_count: 5
           template: "* [$title]($url) - $date"
-          date_format: "mmmm dS, yyyy"
+          date_format: "mmm dd, yyyy"
       - uses: JasonEtco/rss-to-readme@v1
         with:
           empty-commits: false
