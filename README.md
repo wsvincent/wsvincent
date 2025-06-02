@@ -3,9 +3,9 @@
 My name is Will Vincent. I'm a former [Django Board Member](https://www.djangoproject.com/foundation/), founder of [LearnDjango.com](https://learndjango.com/), and a Developer Advocate at [JetBrains](https://www.jetbrains.com/).
 
 **📚 Books**
-- [![Django for Beginners](./images/django-beginners-cover.jpg)](https://learndjango.com/courses/django-for-beginners/)
-- [![Django for APIs](./images/django-apis-cover.jpg)](https://learndjango.com/courses/django-for-apis/)
-- [![Django for Professionals](./images/django-professionals-cover.jpg)](https://learndjango.com/courses/django-for-professionals/)
+- [![Django for Beginners](images/django-beginners-cover.jpg)](https://learndjango.com/courses/django-for-beginners/)
+- [![Django for APIs](images/django-apis-cover.jpg)](https://learndjango.com/courses/django-for-apis/)
+- [![Django for Professionals](images/django-professionals-cover.jpg)](https://learndjango.com/courses/django-for-professionals/)
 
 **📜 My latest blog posts:**
 <!--START_SECTION:blog-posts-->
