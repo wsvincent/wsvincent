@@ -27,11 +27,11 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 
 **🎧 Recent Django Chat Episodes:**
 <!--START_SECTION:chat-->
-* [Django Chat - Django Deployments in 2025 - Eric Matthes - May 28th 2025](https://djangochat.com/episodes/django-deployments-in-2025-eric-matthes)
-* [Django Chat - Event Sourcing - Chris May - May 14th 2025](https://djangochat.com/episodes/event-sourcing-chris-may)
-* [Django Chat -  DjangoCon Europe 2025 Recap - April 30th 2025](https://djangochat.com/episodes/djangocon-europe-2025-recap)
-* [Django Chat - Coding with LLMs - Frank Wils - April 16th 2025](https://djangochat.com/episodes/coding-with-llms-frank-wiles)
-* [Django Chat - PyCon US 2025 - Elaine Wong & Jon Banafato - April 2nd 2025](https://djangochat.com/episodes/pycon-us-2025-elaine-wong-jon-banafato)
+* [Django Deployments in 2025 - Eric Matthes](https:&#x2F;&#x2F;djangochat.com)
+* [Event Sourcing - Chris May](https:&#x2F;&#x2F;djangochat.com)
+* [DjangoCon Europe 2025 Recap](https:&#x2F;&#x2F;djangochat.com)
+* [Coding with LLMs - Frank Wiles](https:&#x2F;&#x2F;djangochat.com)
+* [PyCon US 2025 - Elaine Wong &amp; Jon Banafato](https:&#x2F;&#x2F;djangochat.com)
 <!--END_SECTION:chat-->
 
 
