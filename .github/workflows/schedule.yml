@@ -18,14 +18,19 @@ jobs:
           empty-commits: false
           feed-url: https://django-news.com/issues.rss
           readme-section: news
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          comment_tag_name: "chat"
-          feed_list: "https://feeds.simplecast.com/WpQaX_cs"
-          max_post_count: 5
+          empty-commits: false
+          feed-url: https://feeds.simplecast.com/WpQaX_cs
+          readme-section: chat
+          max: 5
+          template: "* [{{ title }}]({{ link }}) - {{ pubDate }}"
       - uses: JasonEtco/rss-to-readme@v1
         with:
           empty-commits: false
           feed-url: https://wsvincent.com/feed.xml
           readme-section: blog-posts
           max: 5
+      - name: Clean up podcast dates
+        run: |
+          sed -i 's/- [A-Za-z]*, \([0-9]* [A-Za-z]* [0-9]*\) [0-9:+ ]*/- \1/g' README.md
