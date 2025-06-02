@@ -9,11 +9,11 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 
 **📜 My latest blog posts:**
 <!--START_SECTION:blog-posts-->
-- [AI Thoughts in 2025](https://wsvincent.com/ai-thoughts-in-2025/)
-- [PyCon US 2025 Recap](https://wsvincent.com/pyconus-recap/)
-- [What's Happening in Developer Tools? (OpenAI Just Bought Windsurf for $3B)](https://wsvincent.com/whats-happening-in-developer-tools/)
-- [Vibe Recap of DjangoCon Europe 2025](https://wsvincent.com/djangocon-europe-2025-recap/)
-- [Django for Data Science @Boston Python Meetup](https://wsvincent.com/django-for-data-science-boston-python/)
+* [AI Thoughts in 2025](https:&#x2F;&#x2F;wsvincent.com&#x2F;ai-thoughts-in-2025&#x2F;)
+* [PyCon US 2025 Recap](https:&#x2F;&#x2F;wsvincent.com&#x2F;pyconus-recap&#x2F;)
+* [What’s Happening in Developer Tools? (OpenAI Just Bought Windsurf for $3B)](https:&#x2F;&#x2F;wsvincent.com&#x2F;whats-happening-in-developer-tools&#x2F;)
+* [Vibe Recap of DjangoCon Europe 2025](https:&#x2F;&#x2F;wsvincent.com&#x2F;djangocon-europe-2025-recap&#x2F;)
+* [Django for Data Science @ Boston Python Meetup](https:&#x2F;&#x2F;wsvincent.com&#x2F;django-for-data-science-boston-python&#x2F;)
 <!--END_SECTION:blog-posts-->
 
 **📰 Recent Django News Newsletter:**
