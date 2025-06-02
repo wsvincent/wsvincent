@@ -23,8 +23,6 @@ jobs:
           comment_tag_name: "chat"
           feed_list: "https://feeds.simplecast.com/WpQaX_cs"
           max_post_count: 5
-          template: "* [$title]($url) - $date"
-          date_format: "mmm dd, yyyy"
       - uses: JasonEtco/rss-to-readme@v1
         with:
           empty-commits: false
