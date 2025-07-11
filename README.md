@@ -19,11 +19,11 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 
 **📰 Recent Django News Newsletter:**
 <!--START_SECTION:news-->
+* [Django News - Django&#39;s Ecosystem - Jul 11th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;293)
 * [Django News - Django 2024 Annual Impact Report and Django 5.2.4 - Jul 4th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;292)
 * [Django News - Fellow Deadline, Native Pooling, and Debugging in Production - Jun 27th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;291)
 * [Django News - Python 3.14.0 beta 3 - Jun 20th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;290)
 * [Django News - New Django Fellow Position! - Jun 13th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;289)
-* [Django News - Django security releases issued: 5.2.2, 5.1.10, and 4.2.22 - Jun 6th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;288)
 <!--END_SECTION:news-->
 
 **🎧 Recent Django Chat Episodes:**
