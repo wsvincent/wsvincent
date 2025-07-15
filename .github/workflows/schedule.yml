@@ -16,20 +16,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed_list: "https://django-news.com/issues.rss"
-          max_post_count: 5
-          readme_path: ./README.md
-          template: "* [$title]($url)"
-          comment_tag_name: "news"
-          disable_sort: true
+          feed-url: https://django-news.com/issues.rss
+          readme-section: news
+          max: 5
+          template: "* [{{ title }}]({{ link }})"
 
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed_list: "https://feeds.simplecast.com/WpQaX_cs"
-          max_post_count: 5
-          readme_path: ./README.md
-          template: "* [$title]($url)"
-          comment_tag_name: "chat"
-          disable_sort: true
+          feed-url: https://feeds.simplecast.com/WpQaX_cs
+          readme-section: chat
+          max: 5
+          template: "* [{{ title }}]({{ link }})"
