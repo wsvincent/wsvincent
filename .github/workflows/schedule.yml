@@ -23,6 +23,7 @@ jobs:
           readme_path: ./README.md
           template: "* [$title]($url)"
           comment_tag_name: "blog-posts"
+          user_agent: "Mozilla/5.0 (compatible; RSS Reader)"
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
