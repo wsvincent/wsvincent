@@ -1,11 +1,9 @@
 name: Update README
-
 on:
   push:
     branches:
       - main
   schedule:
-    # Once a day at 12 AM
     - cron: 0 12 * * *
   workflow_dispatch:
 
@@ -13,23 +11,13 @@ jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Add this
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: JasonEtco/rss-to-readme@v1
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          empty-commits: false
-          feed-url: https://django-news.com/issues.rss
-          readme-section: news
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          empty-commits: false
-          feed-url: https://feeds.simplecast.com/WpQaX_cs
-          readme-section: chat
-          max: 5
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          empty-commits: false
-          feed-url: https://wsvincent.com/feed.xml
-          readme-section: blog-posts
-          max: 5
+          feed_list: "https://django-news.com/issues.rss,https://feeds.simplecast.com/WpQaX_cs,https://wsvincent.com/feed.xml"
+          max_post_count: 5
+          readme_path: ./README.md
+          template: "* [$title]($url)"
