@@ -9,13 +9,11 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 <a href="https://learndjango.com/courses/django-for-professionals/"><img src="images/dfp50_cover.jpg" width="200" alt="Django for Professionals"/></a>
 
 **📜 My latest blog posts:**
-<!--blog-posts:START-->
+* [Co-Intelligence by Ethan Mollick - Book Review](https://wsvincent.com/cointelligence-book-review/)
+* [Six Months as a Developer Advocate](https://wsvincent.com/six-months-developer-advocate/)
 * [Careless People by Sarah Wynn-Williams - Book Review](https:&#x2F;&#x2F;wsvincent.com&#x2F;careless-people-book-review&#x2F;)
 * [AI Thoughts in 2025](https:&#x2F;&#x2F;wsvincent.com&#x2F;ai-thoughts-in-2025&#x2F;)
 * [PyCon US 2025 Recap](https:&#x2F;&#x2F;wsvincent.com&#x2F;pyconus-recap&#x2F;)
-* [What’s Happening in Developer Tools? (OpenAI Just Bought Windsurf for $3B)](https:&#x2F;&#x2F;wsvincent.com&#x2F;whats-happening-in-developer-tools&#x2F;)
-* [Vibe Recap of DjangoCon Europe 2025](https:&#x2F;&#x2F;wsvincent.com&#x2F;djangocon-europe-2025-recap&#x2F;)
-<!--blog-posts:END-->
 
 **📰 Recent Django News Newsletter:**
 <!-- news:START -->
