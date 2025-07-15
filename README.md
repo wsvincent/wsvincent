@@ -21,13 +21,7 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 <!-- news:START -->* [Django News - Django&#39;s Ecosystem - Jul 11th 2025](https://django-news.com/issues/293)* [Django News - Django 2024 Annual Impact Report and Django 5.2.4 - Jul 4th 2025](https://django-news.com/issues/292)* [Django News - Fellow Deadline, Native Pooling, and Debugging in Production - Jun 27th 2025](https://django-news.com/issues/291)* [Django News - Python 3.14.0 beta 3 - Jun 20th 2025](https://django-news.com/issues/290)* [Django News - New Django Fellow Position! - Jun 13th 2025](https://django-news.com/issues/289)<!-- news:END -->
 
 **🎧 Recent Django Chat Episodes:**
-<!-- chat:START -->
-* [PHP Web Frameworks - Roman Pronskiy](https:&#x2F;&#x2F;djangochat.com)
-* [Django Deployments in 2025 - Eric Matthes](https:&#x2F;&#x2F;djangochat.com)
-* [Event Sourcing - Chris May](https:&#x2F;&#x2F;djangochat.com)
-* [DjangoCon Europe 2025 Recap](https:&#x2F;&#x2F;djangochat.com)
-* [Coding with LLMs - Frank Wiles](https:&#x2F;&#x2F;djangochat.com)
-<!-- chat:END -->
+<!-- chat:START -->* [PHP Web Frameworks - Roman Pronskiy](https://djangochat.com)* [Django Deployments in 2025 - Eric Matthes](https://djangochat.com)* [Event Sourcing - Chris May](https://djangochat.com)* [DjangoCon Europe 2025 Recap](https://djangochat.com)* [Coding with LLMs - Frank Wiles](https://djangochat.com)<!-- chat:END -->
 
 
 **:octocat: GitHub Stats:**
