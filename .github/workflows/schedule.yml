@@ -5,7 +5,7 @@ on:
       - main
   schedule:
     # Once a day at 12 PM UTC
-    - cron: 0 12 * * *
+    - cron: "0 12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,27 +16,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # - uses: gautamkrishnar/blog-post-workflow@v1
-      #   with:
-      #     feed_list: "https://wsvincent.com/feed.xml"
-      #     max_post_count: 5
-      #     readme_path: ./README.md
-      #     template: "* [$title]($url)"
-      #     comment_tag_name: "blog-posts"
-      #     user_agent: "Mozilla/5.0 (compatible; RSS Reader)"
-
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://django-news.com/issues.rss"
           max_post_count: 5
           readme_path: ./README.md
           template: "* [$title]($url)"
           comment_tag_name: "news"
+          disable_sort: true
 
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://feeds.simplecast.com/WpQaX_cs"
           max_post_count: 5
           readme_path: ./README.md
           template: "* [$title]($url)"
           comment_tag_name: "chat"
+          disable_sort: true
