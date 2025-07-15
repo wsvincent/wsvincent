@@ -12,7 +12,10 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Add this
     steps:
+      - uses: actions/checkout@v4
       - uses: JasonEtco/rss-to-readme@v1
         with:
           empty-commits: false
