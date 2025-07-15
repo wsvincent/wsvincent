@@ -16,10 +16,12 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 * [PyCon US 2025 Recap](https:&#x2F;&#x2F;wsvincent.com&#x2F;pyconus-recap&#x2F;)
 
 **📰 Recent Django News Newsletter:**
-<!-- news:START -->* [Django News - Django&#39;s Ecosystem - Jul 11th 2025](https://django-news.com/issues/293)* [Django News - Django 2024 Annual Impact Report and Django 5.2.4 - Jul 4th 2025](https://django-news.com/issues/292)* [Django News - Fellow Deadline, Native Pooling, and Debugging in Production - Jun 27th 2025](https://django-news.com/issues/291)* [Django News - Python 3.14.0 beta 3 - Jun 20th 2025](https://django-news.com/issues/290)* [Django News - New Django Fellow Position! - Jun 13th 2025](https://django-news.com/issues/289)<!-- news:END -->
+<!-- SECTION:START:news -->
+<!-- SECTION:END:news -->
 
 **🎧 Recent Django Chat Episodes:**
-<!-- chat:START -->* [PHP Web Frameworks - Roman Pronskiy](https://djangochat.com)* [Django Deployments in 2025 - Eric Matthes](https://djangochat.com)* [Event Sourcing - Chris May](https://djangochat.com)* [DjangoCon Europe 2025 Recap](https://djangochat.com)* [Coding with LLMs - Frank Wiles](https://djangochat.com)<!-- chat:END -->
+<!-- SECTION:START:chat -->
+<!-- SECTION:END:chat -->
 
 
 **:octocat: GitHub Stats:**
