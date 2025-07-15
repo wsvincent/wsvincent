@@ -9,19 +9,29 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 <a href="https://learndjango.com/courses/django-for-professionals/"><img src="images/dfp50_cover.jpg" width="200" alt="Django for Professionals"/></a>
 
 **📜 My latest blog posts:**
-<!--START_SECTION:blog-posts-->
+<!--blog-posts:START-->
 * [Careless People by Sarah Wynn-Williams - Book Review](https:&#x2F;&#x2F;wsvincent.com&#x2F;careless-people-book-review&#x2F;)
 * [AI Thoughts in 2025](https:&#x2F;&#x2F;wsvincent.com&#x2F;ai-thoughts-in-2025&#x2F;)
 * [PyCon US 2025 Recap](https:&#x2F;&#x2F;wsvincent.com&#x2F;pyconus-recap&#x2F;)
 * [What’s Happening in Developer Tools? (OpenAI Just Bought Windsurf for $3B)](https:&#x2F;&#x2F;wsvincent.com&#x2F;whats-happening-in-developer-tools&#x2F;)
 * [Vibe Recap of DjangoCon Europe 2025](https:&#x2F;&#x2F;wsvincent.com&#x2F;djangocon-europe-2025-recap&#x2F;)
-<!--END_SECTION:blog-posts-->
+<!--blog-posts:END-->
 
 **📰 Recent Django News Newsletter:**
-<!-- news:START -->* [Django News - Django&#39;s Ecosystem - Jul 11th 2025](https://django-news.com/issues/293)* [Django News - Django 2024 Annual Impact Report and Django 5.2.4 - Jul 4th 2025](https://django-news.com/issues/292)* [Django News - Fellow Deadline, Native Pooling, and Debugging in Production - Jun 27th 2025](https://django-news.com/issues/291)* [Django News - Python 3.14.0 beta 3 - Jun 20th 2025](https://django-news.com/issues/290)* [Django News - New Django Fellow Position! - Jun 13th 2025](https://django-news.com/issues/289)<!-- news:END -->
+<!-- news:START -->
+* [Django News - Django&#39;s Ecosystem - Jul 11th 2025](https://django-news.com/issues/293)
+* [Django News - Django 2024 Annual Impact Report and Django 5.2.4 - Jul 4th 2025](https://django-news.com/issues/292)
+* [Django News - Fellow Deadline, Native Pooling, and Debugging in Production - Jun 27th 2025](https://django-news.com/issues/291)
+* [Django News - Python 3.14.0 beta 3 - Jun 20th 2025](https://django-news.com/issues/290)
+* [Django News - New Django Fellow Position! - Jun 13th 2025](https://django-news.com/issues/289)<!-- news:END -->
 
 **🎧 Recent Django Chat Episodes:**
-<!-- chat:START -->* [PHP Web Frameworks - Roman Pronskiy](https://djangochat.com)* [Django Deployments in 2025 - Eric Matthes](https://djangochat.com)* [Event Sourcing - Chris May](https://djangochat.com)* [DjangoCon Europe 2025 Recap](https://djangochat.com)* [Coding with LLMs - Frank Wiles](https://djangochat.com)<!-- chat:END -->
+<!-- chat:START -->
+* [PHP Web Frameworks - Roman Pronskiy](https://djangochat.com)
+* [Django Deployments in 2025 - Eric Matthes](https://djangochat.com)
+* [Event Sourcing - Chris May](https://djangochat.com)
+* [DjangoCon Europe 2025 Recap](https://djangochat.com)
+* [Coding with LLMs - Frank Wiles](https://djangochat.com)<!-- chat:END -->
 
 
 **:octocat: GitHub Stats:**

@@ -18,6 +18,14 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          feed_list: "https://wsvincent.com/feed.xml"
+          max_post_count: 5
+          readme_path: ./README.md
+          template: "* [$title]($url)"
+          comment_tag_name: "blog-posts"
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
           feed_list: "https://django-news.com/issues.rss"
           max_post_count: 5
           readme_path: ./README.md
