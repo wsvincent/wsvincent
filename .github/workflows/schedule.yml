@@ -18,7 +18,16 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://django-news.com/issues.rss,https://feeds.simplecast.com/WpQaX_cs"
+          feed_list: "https://django-news.com/issues.rss"
           max_post_count: 5
           readme_path: ./README.md
           template: "* [$title]($url)"
+          comment_tag_name: "news"
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://feeds.simplecast.com/WpQaX_cs"
+          max_post_count: 5
+          readme_path: ./README.md
+          template: "* [$title]($url)"
+          comment_tag_name: "chat"
