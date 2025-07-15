@@ -18,13 +18,7 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 <!--END_SECTION:blog-posts-->
 
 **📰 Recent Django News Newsletter:**
-<!-- news:START -->
-* [Django News - Django&#39;s Ecosystem - Jul 11th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;293)
-* [Django News - Django 2024 Annual Impact Report and Django 5.2.4 - Jul 4th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;292)
-* [Django News - Fellow Deadline, Native Pooling, and Debugging in Production - Jun 27th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;291)
-* [Django News - Python 3.14.0 beta 3 - Jun 20th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;290)
-* [Django News - New Django Fellow Position! - Jun 13th 2025](https:&#x2F;&#x2F;django-news.com&#x2F;issues&#x2F;289)
-<!-- news:END -->
+<!-- news:START -->* [Django News - Django&#39;s Ecosystem - Jul 11th 2025](https://django-news.com/issues/293)* [Django News - Django 2024 Annual Impact Report and Django 5.2.4 - Jul 4th 2025](https://django-news.com/issues/292)* [Django News - Fellow Deadline, Native Pooling, and Debugging in Production - Jun 27th 2025](https://django-news.com/issues/291)* [Django News - Python 3.14.0 beta 3 - Jun 20th 2025](https://django-news.com/issues/290)* [Django News - New Django Fellow Position! - Jun 13th 2025](https://django-news.com/issues/289)<!-- news:END -->
 
 **🎧 Recent Django Chat Episodes:**
 <!-- chat:START -->
