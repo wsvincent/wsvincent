@@ -34,7 +34,7 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 
 **:octocat: GitHub Stats:**
 
-![Will Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsvincent&show_icons=&private_count=true&theme=dracula)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefftriplett&layout=compact&theme=dracula)]()
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wsvincent&show_icons=&private_count=true&theme=dracula)
 
 **📫 How to reach out to me:**
 - Connect on LinkedIn: [in/william-s-vincent/](https://www.linkedin.com/in/william-s-vincent/)
