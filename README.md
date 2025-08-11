@@ -2,6 +2,8 @@
 
 My name is Will Vincent. I'm a former [Django Board Member](https://www.djangoproject.com/foundation/), founder of [LearnDjango.com](https://learndjango.com/), and a Developer Advocate at [JetBrains](https://www.jetbrains.com/).
 
+[![My Skills](https://skillicons.dev/icons?i=py,django,js,html,htmx,css,git,pycharm)](https://skillicons.dev)
+
 **📚 Books**
 
 <a href="https://learndjango.com/courses/django-for-beginners/"><img src="images/dfb50_cover.jpg" width="200" alt="Django for Beginners"/></a>
@@ -9,18 +11,18 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 <a href="https://learndjango.com/courses/django-for-professionals/"><img src="images/dfp50_cover.jpg" width="200" alt="Django for Professionals"/></a>
 
 **📜 My latest blog posts:**
+* [AI For the Rest of Us](https://wsvincent.com/ai-for-the-rest-of-us/)
+* [EuroPython 2025 in Prague Recap](https://wsvincent.com/europython2025-recap/)
 * [Six Months as a Developer Advocate](https://wsvincent.com/six-months-developer-advocate/)
 * [Co-Intelligence by Ethan Mollick - Book Review](https://wsvincent.com/cointelligence-book-review/)
 * [Careless People by Sarah Wynn-Williams - Book Review](https://wsvincent.com/careless-people-book-review/)
-* [AI Thoughts in 2025](https://wsvincent.com/ai-thoughts-in-2025/)
-* [PyCon US 2025 Recap](https://wsvincent.com/pyconus-recap/)
 
 **📰 Recent Django News Newsletter:**
+* [Django 5.2.5 Released](https://django-news.com/issues/297#start)
+* [Django and AI](https://django-news.com/issues/296#start)
+* [DjangoCon US 2025 Talks Announced](https://django-news.com/issues/295#start)
+* [🎂 Django Turns 20!](https://django-news.com/issues/294#start)
 * [Django's Ecosystem](https://django-news.com/issues/293#start)
-* [Django 2024 Annual Impact Report and Django 5.2.4 ](https://django-news.com/issues/292#start)
-* [Fellow Deadline, Native Pooling, and Debugging in Production ](https://django-news.com/issues/291#start)
-* [Python 3.14.0 beta 3](https://django-news.com/issues/290#start)
-* [New Django Fellow Position!](https://django-news.com/issues/289#start)
 
 **🎧 Recent Django Chat Episodes:**
 * [PHP Web Frameworks - Roman Pronskiy](https://djangochat.com/episodes/php-web-frameworks-roman-pronskiy)
