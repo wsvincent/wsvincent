@@ -11,26 +11,12 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 <a href="https://learndjango.com/courses/django-for-professionals/"><img src="images/dfp50_cover.jpg" width="200" alt="Django for Professionals"/></a>
 
 **📜 My latest blog posts:**
-* [AI For the Rest of Us](https://wsvincent.com/ai-for-the-rest-of-us/)
-* [EuroPython 2025 in Prague Recap](https://wsvincent.com/europython2025-recap/)
-* [Six Months as a Developer Advocate](https://wsvincent.com/six-months-developer-advocate/)
-* [Co-Intelligence by Ethan Mollick - Book Review](https://wsvincent.com/cointelligence-book-review/)
-* [Careless People by Sarah Wynn-Williams - Book Review](https://wsvincent.com/careless-people-book-review/)
-
-**📰 Recent Django News Newsletter:**
-* [Django 5.2.5 Released](https://django-news.com/issues/297#start)
-* [Django and AI](https://django-news.com/issues/296#start)
-* [DjangoCon US 2025 Talks Announced](https://django-news.com/issues/295#start)
-* [🎂 Django Turns 20!](https://django-news.com/issues/294#start)
-* [Django's Ecosystem](https://django-news.com/issues/293#start)
-
-**🎧 Recent Django Chat Episodes:**
-* [PHP Web Frameworks - Roman Pronskiy](https://djangochat.com/episodes/php-web-frameworks-roman-pronskiy)
-* [Django Deployments in 2025 - Eric Matthes](https://djangochat.com/episodes/django-deployments-in-2025-eric-matthes)
-* [Event Sourcing - Chris May](https://djangochat.com/episodes/event-sourcing-chris-may)
-* [DjangoCon Europe 2025 Recap](https://djangochat.com/episodes/djangocon-europe-2025-recap)
-* [Coding with LLMs - Frank Wiles](https://djangochat.com/episodes/coding-with-llms-frank-wiles)
-
+* [An Insider's Guide to DjangoCon US 2025](https://wsvincent.com/insiders-guide-to-djangocon/)
+* [Talk Python: Celebrating Django's 20th Birthday With Its Creators] (https://wsvincent.com/talk-python-django-20/)
+* [The Thinking Machine - Book Review](https://wsvincent.com/the-thinking-machine-book-review/)
+* [How to Succeed as a Human in an AI World](https://wsvincent.com/how-to-succeed-with-ai/)
+* [Vibe Coding a Website Refresh](https://wsvincent.com/vibe-coding-website-refresh/)
+* [AI Flat Spin](https://wsvincent.com/ai-flatspin/)
 
 **:octocat: GitHub Stats:**
 
