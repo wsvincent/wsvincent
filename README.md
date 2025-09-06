@@ -12,7 +12,7 @@ My name is Will Vincent. I'm a former [Django Board Member](https://www.djangopr
 
 **📜 My latest blog posts:**
 * [An Insider's Guide to DjangoCon US 2025](https://wsvincent.com/insiders-guide-to-djangocon/)
-* [Talk Python: Celebrating Django's 20th Birthday With Its Creators] (https://wsvincent.com/talk-python-django-20/)
+* [Talk Python: Celebrating Django's 20th Birthday With Its Creators](https://wsvincent.com/talk-python-django-20/)
 * [The Thinking Machine - Book Review](https://wsvincent.com/the-thinking-machine-book-review/)
 * [How to Succeed as a Human in an AI World](https://wsvincent.com/how-to-succeed-with-ai/)
 * [Vibe Coding a Website Refresh](https://wsvincent.com/vibe-coding-website-refresh/)
