@@ -1,4 +1,4 @@
-Hi, I'm Will Vincent, a Python Developer Advocate at [JetBrains](https://www.jetbrains.com/).
+Hi, I'm Will Vincent, a Python Developer Advocate at [JetBrains](https://www.jetbrains.com/), [Python Fellow](https://www.python.org/psf/fellows/), [Django Individual Member](https://www.djangoproject.com/foundation/individual-members/), and former [Django Board Member](https://www.djangoproject.com/foundation/).
 
 I'm the author of three books on Django and currently run [LearnDjango.com](https://learndjango.com/), co-host the [Django Chat podcast](https://djangochat.com), and co-write the [Django News Newsletter](https://django-news.com). I also speak regularly at conferences, including a keynote at [DjangoCon Europe](https://youtu.be/XJLvovUVlhw?si=CanQPeZnjsQpPym7) in April 2025 and a talk at [DjangoCon US](https://wsvincent.com/django-for-ai-djangocon/) in October 2025.
 
