@@ -1,6 +1,10 @@
 Hi, I'm Will Vincent, a Python Developer Advocate at [JetBrains](https://www.jetbrains.com/), [Python Fellow](https://www.python.org/psf/fellows/), and former [Django Board Member](https://www.djangoproject.com/foundation/).
 
-I'm the author of three books on Django and currently run [LearnDjango.com](https://learndjango.com/), co-host the [Django Chat podcast](https://djangochat.com), and co-write the [Django News Newsletter](https://django-news.com). I also speak regularly at conferences, including a keynote at [DjangoCon Europe](https://youtu.be/XJLvovUVlhw?si=CanQPeZnjsQpPym7) in April 2025 and a talk at [DjangoCon US](https://wsvincent.com/django-for-ai-djangocon/) in October 2025.
+- 📘 Wrote the book [Django for Beginners](https://learndjango.com/courses/django-for-beginners/)
+- 🎓 Run [LearnDjango.com](https://learndjango.com/)
+- 🎙️ Co-host the [Django Chat podcast](https://djangochat.com)
+- 📰 Co-write the [Django News Newsletter](https://django-news.com)
+- 🎤 Speak regularly at conferences, most recently [Modern Django Deployments in 2026](https://2026.djangocon.us/news/announcing-lineup/) at DjangoCon US and [Deploying Python Web Apps in 2026](https://wsvincent.com/deploying-web-apps-in-2026/) at EuroPython, plus [many previous talks](https://wsvincent.com/talks/)
 
 You can read [a longer bio](https://wsvincent.com/about/) on my personal website if you're still curious.
 
@@ -27,5 +31,3 @@ You can read [a longer bio](https://wsvincent.com/about/) on my personal website
 </p>
 
 <a href="https://learndjango.com/courses/django-for-beginners/"><img src="images/dfb50_cover.jpg" width="200" alt="Django for Beginners"/></a>
-<a href="https://learndjango.com/courses/django-for-apis/"><img src="images/dfa51_cover.jpg" width="200" alt="Django for APIs"/></a>
-<a href="https://learndjango.com/courses/django-for-professionals/"><img src="images/dfp50_cover.jpg" width="200" alt="Django for Professionals"/></a>
