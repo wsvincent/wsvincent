@@ -31,5 +31,5 @@ You can read [a longer bio](https://wsvincent.com/about/) on my personal website
 </p>
 
 <p align="center">
-  <a href="https://learndjango.com/courses/django-for-beginners/"><img src="images/dfb50_cover.jpg" width="200" alt="Django for Beginners"/></a>
+  <a href="https://learndjango.com/courses/django-for-beginners/"><img src="images/dfb61_cover.png" width="200" alt="Django for Beginners"/></a>
 </p>
